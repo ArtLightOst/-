@@ -1,0 +1,10 @@
+TOKEN = 'd15c6429d15c6429d15c642906d127a3acdd15cd15c6429b36590b70be0011ce7a23fa6'
+DOMEN_VK = 'https://vk.com/'
+API_VERSION = '5.131'
+ABSENCE_MESSAGE = 'Информация отсутствует'
+ACCESS_DENIED_MESSAGE = 'Доступ запрещён'
+INCORRECT_REFERENCE_MESSAGE = 'Некорректная ссылка'
+ERROR_MESSAGE = 'Непредвиденная ошибка'
+RPS = 5
+ACCESS_DENIED_CODE = 15
+INCORRECT_REFERENCE_CODE = 100

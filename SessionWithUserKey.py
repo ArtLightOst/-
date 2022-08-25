@@ -1,0 +1,2 @@
+class SessionWithUserKey(object):
+    pass
