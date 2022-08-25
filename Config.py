@@ -1,4 +1,4 @@
-TOKEN = 'd15c6429d15c6429d15c642906d127a3acdd15cd15c6429b36590b70be0011ce7a23fa6'
+TOKEN = ''
 DOMEN_VK = 'https://vk.com/'
 API_VERSION = '5.131'
 ABSENCE_MESSAGE = 'Информация отсутствует'
